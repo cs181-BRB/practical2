@@ -1,0 +1,6 @@
+*.csv
+*.gz
+*.xml
+test/*
+train/*
+*.DS_Store
